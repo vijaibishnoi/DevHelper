@@ -1,4 +1,4 @@
-const domain = document.getElementById('toolinputdomain);
+const name = document.getElementById('toolinputdomain);
 
 const generator = document.getElementById('generator');
 const backlinks = document.getElementById('tooloutput');
